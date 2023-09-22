@@ -83,5 +83,5 @@ const bankAccount = {
         document.getElementById("titleSpan").style.color = "green";
     } else {
         document.getElementById("titleSpan").style.color = "red";
-    }
+    };
     
